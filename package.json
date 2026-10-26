@@ -1,0 +1,12 @@
+{
+  "name": "nexo-crm",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Nexo CRM sobre Vercel + Neon",
+  "engines": {
+    "node": "22.x"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "1.0.1"
+  }
+}
